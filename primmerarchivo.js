@@ -1,1 +1,1 @@
-console.log("primer clg")
+console.log("primer clg sisa")
